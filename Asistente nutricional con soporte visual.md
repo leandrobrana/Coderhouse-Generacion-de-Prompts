@@ -29,9 +29,6 @@ receta para un paciente celíaco, que cumpla con un 25% de fibras,<br>
 <li>
 <p>Lista de ingredientes detallada.</p>
 </li>
-<li>
-<p>Instrucciones de preparación paso a paso.</p>
-</li>
 </ul>
 </li>
 <li>
@@ -64,7 +61,7 @@ Se definirán diferentes perfiles de pacientes con necesidades nutricionales esp
 </li>
 <li>
 <p><strong>Fase 2 – Generación y validación de recetas (Texto → Texto):</strong><br>
-Se implementará un <em>notebook</em> de Jupyter en Python con integración a la API de <strong>Gemini</strong> para generar recetas a partir de los prompts definidos. Se evaluará la calidad de las salidas y se ajustarán los <em>prompts</em> para maximizar claridad, utilidad nutricional y estructura.</p>
+Se implementará un proyecto en Python con integración a la API de <strong>Gemini</strong> para generar recetas a partir de los prompts definidos. Se evaluará la calidad de las salidas y se ajustarán los <em>prompts</em> para maximizar claridad, utilidad nutricional y estructura.</p>
 </li>
 <li>
 <p><strong>Fase 3 – Visualización del plato (Texto → Imagen):</strong><br>
@@ -78,7 +75,7 @@ Utilizando un modelo como DALL·E o alternativas gratuitas como Nightcafe, se ge
 <p><strong>Lenguaje de programación:</strong> Python (por su amplio soporte en bibliotecas de IA y facilidad de integración con APIs).</p>
 </li>
 <li>
-<p><strong>Entorno de desarrollo:</strong> Jupyter Notebook (para documentación integrada y ejecución interactiva).</p>
+<p><strong>Entorno de desarrollo:</strong> Google Colab (para documentación integrada y ejecución interactiva).</p>
 </li>
 <li>
 <p><strong>Modelo de generación de texto:</strong> Gemini 2.0 Flash (para generar recetas completas, coherentes y ajustadas a las necesidades del usuario).</p>
