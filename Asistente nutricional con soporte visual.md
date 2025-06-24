@@ -84,4 +84,47 @@ Utilizando un modelo como DALL·E o alternativas gratuitas como Nightcafe, se ge
 <p><strong>Modelo de generación de imágenes:</strong> Gemini 2.0 Flash</p>
 </li>
 </ul>
+<h3 id="resultados">Resultados</h3>
+<p>A lo largo del desarrollo del proyecto, se implementó un asistente nutricional basado en inteligencia artificial que demostró ser funcional y eficaz en la generación de recetas personalizadas con soporte visual. Los resultados se obtuvieron tras completar las tres fases previstas, con los siguientes logros concretos:</p>
+<ul>
+<li>
+<p><strong>Fase 1 – Diseño de prompts y perfiles nutricionales</strong>:<br>
+Se definieron cinco perfiles representativos de pacientes (celíacos, diabéticos, con sobrepeso, vegetarianos y deportistas) y se redactaron prompts específicos para cada uno. Los prompts permitieron una comunicación clara y efectiva con el modelo de lenguaje, generando salidas ajustadas a las restricciones y objetivos nutricionales definidos.</p>
+</li>
+<li>
+<p><strong>Fase 2 – Generación textual de recetas</strong>:<br>
+Las recetas generadas por el modelo Gemini 2.0 Flash fueron evaluadas en términos de coherencia, estructura y adecuación nutricional. Se observaron resultados positivos en:</p>
+<ul>
+<li>
+<p>Claridad en la redacción de pasos.</p>
+</li>
+<li>
+<p>Inclusión equilibrada de ingredientes según las pautas solicitadas.</p>
+</li>
+<li>
+<p>Capacidad del modelo para adaptar recetas a restricciones como ausencia de gluten o bajo índice glucémico.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Fase 3 – Visualización de los platos</strong>:<br>
+Se generaron imágenes realistas de los platos utilizando modelos de tipo Texto → Imagen. Las visualizaciones resultaron atractivas, coherentes con las descripciones generadas y útiles para complementar la entrega profesional al paciente. Esto permitió verificar que el componente visual refuerza la comprensión y mejora la presentación general de los planes alimentarios.</p>
+</li>
+</ul>
+<p>Además, se validó que el uso de esta herramienta no requiere conocimientos técnicos avanzados por parte del profesional de la nutrición, lo que refuerza su aplicabilidad en contextos clínicos reales.</p>
+<h2 id="conclusiones">Conclusiones</h2>
+<p>El desarrollo del asistente nutricional con soporte visual permitió demostrar que la inteligencia artificial puede convertirse en un aliado eficaz en la práctica profesional de la nutrición, brindando:</p>
+<ul>
+<li>
+<p><strong>Eficiencia</strong>: Reducción del tiempo necesario para diseñar planes alimentarios personalizados, sin sacrificar calidad ni especificidad.</p>
+</li>
+<li>
+<p><strong>Personalización</strong>: Adaptación precisa de las recetas a los requerimientos nutricionales individuales de cada paciente.</p>
+</li>
+<li>
+<p><strong>Mejor comunicación profesional-paciente</strong>: La generación de imágenes visuales facilita la comprensión de las propuestas dietéticas, lo que potencialmente mejora la adhesión al tratamiento.</p>
+</li>
+</ul>
+<p>La implementación modular del proyecto, junto con el uso de herramientas accesibles y modelos preentrenados, confirmó la viabilidad técnica y económica del enfoque. Como trabajo futuro, se sugiere explorar la integración del asistente en una interfaz web interactiva que permita almacenar historiales de pacientes, generar reportes automáticos y mejorar la experiencia de uso.</p>
+<p>En conclusión, este asistente representa un aporte concreto e innovador al ejercicio profesional del nutricionista, combinando ciencia, tecnología y diseño centrado en el usuario para mejorar la calidad del acompañamiento nutricional.</p>
 
