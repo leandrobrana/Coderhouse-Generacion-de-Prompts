@@ -84,7 +84,7 @@ Utilizando un modelo como DALL·E o alternativas gratuitas como Nightcafe, se ge
 <p><strong>Modelo de generación de imágenes:</strong> Gemini 2.0 Flash</p>
 </li>
 </ul>
-<h3 id="resultados">Resultados</h3>
+<h2 id="resultados">Resultados</h2>
 <p>A lo largo del desarrollo del proyecto, se implementó un asistente nutricional basado en inteligencia artificial que demostró ser funcional y eficaz en la generación de recetas personalizadas con soporte visual. Los resultados se obtuvieron tras completar las tres fases previstas, con los siguientes logros concretos:</p>
 <ul>
 <li>
